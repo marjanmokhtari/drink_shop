@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://drinkperfy.com/cdn/shop/files/Logo_-_Dark_Purple_256x256_crop_center_cb0cf6cb-20fe-44d7-8f98-846c59d4d66d.png?height=100&v=1641318616" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
