@@ -18,14 +18,16 @@
     <br />
     <a href="https://drink-shop-rnhw.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/marjanmokhtari/drink_shop/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/marjanmokhtari/drink_shop/issues">Request Feature</a>
   </p>
 </div>
 
 ## About The Project
 
+drinkperfy shop
+developer by marjan mokhtari
 
 
 
