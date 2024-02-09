@@ -4,7 +4,9 @@
 
 
 
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
