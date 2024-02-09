@@ -45,11 +45,6 @@
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-      <a href="#about-the-project">About The Project</a>
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 
