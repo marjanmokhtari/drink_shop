@@ -20,7 +20,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-url]
+[!LinkedIn[linkedin-url]
 
 
 
