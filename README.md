@@ -32,16 +32,14 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://drinkperfy.com/cdn/shop/files/Logo_-_Dark_Purple_256x256_crop_center_cb0cf6cb-20fe-44d7-8f98-846c59d4d66d.png?height=100&v=1641318616" alt="Logo" width="80" height="80">
+    <img src="https://drinkperfy.com/cdn/shop/files/Logo_-_Dark_Purple_256x256_crop_center_cb0cf6cb-20fe-44d7-8f98-846c59d4d66d.png?height=100&v=1641318616" alt="Logo" >
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
+      <br />
     <br />
     <a href="https://drink-shop-rnhw.vercel.app/">View Demo</a>
     ·
@@ -55,36 +53,11 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
