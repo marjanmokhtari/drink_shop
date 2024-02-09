@@ -49,9 +49,11 @@
 <!-- CONTACT -->
 ## Contact
 
-*[Linkedin](https://www.linkedin.com/in/marjanmokhtari/) 
-*[Gmail](mimmokhtarii@gmail.com)
-*[Project Link](https://github.com/marjanmokhtari/drink_shop)
+[Linkedin](https://www.linkedin.com/in/marjanmokhtari/) 
+ <br />
+[Gmail](mimmokhtarii@gmail.com)
+ <br />
+[Project Link](https://github.com/marjanmokhtari/drink_shop)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
