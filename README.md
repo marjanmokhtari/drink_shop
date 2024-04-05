@@ -16,7 +16,7 @@
     <br />
       <br />
     <br />
-    <a href="https://drink-shop-rnhw.vercel.app/">View Demo</a>
+    <a href="https://drink-shop-rnhw.vercel.app/">View Demo(*VPN)</a>
     ·
     <a href="https://github.com/marjanmokhtari/drink_shop/issues">Report Bug</a>
     ·
