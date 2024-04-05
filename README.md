@@ -24,7 +24,7 @@
   </p>
 </div>
 
-![Screenshot (110)](https://github.com/marjanmokhtari/drink_shop/assets/143844652/2d3cf48a-77ba-4f5e-97f7-ca9f2023087e)
+![Screenshot (108)](https://github.com/marjanmokhtari/drink_shop/assets/143844652/b1f27646-a27f-4a09-9e3e-8c0c6f58c668)
 ![Screenshot (110)](https://github.com/marjanmokhtari/drink_shop/assets/143844652/15953508-d483-475a-bc72-e1f6e049e51b)
 
 ## About The Project
